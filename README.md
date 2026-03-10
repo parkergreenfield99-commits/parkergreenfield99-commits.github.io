@@ -2,7 +2,7 @@
 <img src="Professional-photo-modified.png" width="160">
 <p align="left">
 
-<img src="https://img.shields.io/badge/M.S.%20Industrial%20%26%20Systems%20Engineering-University%20of%20Oklahoma-841617?style=for-the-badge">
+<img src="https://img.shields.io/badge/University%20of%20Oklahoma-841617-M.S.%20Industrial%20%26%20Systems%20Engineering?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/EY-Former%20Risk%20Analyst-FFD500?style=for-the-badge&labelColor=000000">
 
