@@ -48,7 +48,7 @@ Future projects will explore optimization, supply chain resilience, and complex 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/parkergreenfield">
+<a href="https://www.linkedin.com/in/parkergreenfield">
 <img src="https://img.shields.io/badge/LinkedIn-Parker Greenfield-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
