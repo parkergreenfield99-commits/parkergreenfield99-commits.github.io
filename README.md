@@ -10,10 +10,9 @@ Systems Engineering | Modeling & Simulation | Decision Analysis
 
 <p align="center">
 M.S. Industrial & Systems Engineering — University of Oklahoma  
-Former Risk Analyst — EY
+• Former Risk Analyst — EY
 </p>
 
-M.S. Industrial & Systems Engineering — University of Oklahoma
 
 Focused on analytical methods for complex decision environments, including systems analysis, modeling & simulation, and decision analysis under uncertainty.
 
