@@ -1,8 +1,17 @@
 <p align="center">
-  <img src="ou-banner.png">
+  <img src="ou-banner-dark.png" width="100%">
 </p>
 
+<h1 align="center">Parker Greenfield</h1>
 
+<p align="center">
+Systems Engineering | Modeling & Simulation | Decision Analysis
+</p>
+
+<p align="center">
+M.S. Industrial & Systems Engineering — University of Oklahoma  
+Former Risk Analyst — EY
+</p>
 # Parker Greenfield
 
 M.S. Industrial & Systems Engineering — University of Oklahoma
