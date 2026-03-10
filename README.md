@@ -44,7 +44,6 @@ Future projects will explore optimization, supply chain resilience, and complex 
 
 ---
 
-## Contact
 
 <p align="center">
 
