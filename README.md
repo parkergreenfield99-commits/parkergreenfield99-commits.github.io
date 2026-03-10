@@ -53,5 +53,5 @@ Future projects will explore optimization, supply chain resilience, and complex 
 </a>
 
 <a href="mailto:parker.greenfield99@gmail.com">
-<img src="https://img.shields.io/badge/Email-Parker%20Greenfield-1F2937?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-parker.greenfield99%40gmail.com-lightgrey?style=for-the-badge&logo=gmail">
 </a>
