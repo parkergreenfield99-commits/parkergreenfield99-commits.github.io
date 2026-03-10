@@ -1,16 +1,20 @@
 
 <img src="Professional-photo-modified.png" width="160">
-<p align="left">
+<p align="center">
+
+<img src="https://img.shields.io/badge/M.S.%20Industrial%20%26%20Systems%20Engineering-University%20of%20Oklahoma-841617?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/EY-Former%20Risk%20Analyst-FFD500?style=for-the-badge&labelColor=000000">
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/Systems%20Engineering-Complex%20Systems-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Modeling-Simulation-374151?style=for-the-badge">
 <img src="https://img.shields.io/badge/Decision%20Analysis-Strategy-841617?style=for-the-badge">
+
 </p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/M.S.%20Industrial%20%26%20Systems%20Engineering-University%20of%20Oklahoma-841617?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Former%20Risk%20Analyst-EY-000000?style=for-the-badge&logo=ey&logoColor=FFD500">
-
 
 
 
