@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="ou-banner.png" width="100%">
+</p>
+
 <img src="Professional-photo-modified.png" width="160">
 <p align="left">
 Systems Engineering | Modeling & Simulation | Decision Analysis
