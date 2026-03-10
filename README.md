@@ -48,4 +48,8 @@ Future projects will explore optimization, supply chain resilience, and complex 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/parkergreenfield)
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a> • 
+<a href="mailto:your.email@email.com">Email</a> • 
+<a href="tel:+18163981873">Phone</a>
+</p>
