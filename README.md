@@ -1,5 +1,5 @@
 
-
+<img src="profile-circle.png" width="160"> width="160">
 <p align="left">
 Systems Engineering | Modeling & Simulation | Decision Analysis
 </p>
