@@ -15,11 +15,6 @@
 <img src="https://img.shields.io/badge/Decision%20Analysis-Strategy-374151?style=for-the-badge">
 
 
-</p>
-
-
-
-</p>
 
 
 </p>
