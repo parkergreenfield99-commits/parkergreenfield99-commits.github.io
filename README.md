@@ -43,11 +43,8 @@ Future projects will explore optimization, supply chain resilience, and complex 
 ---
 
 
-<p align="center">
 
-<p align="center">
-
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/parkergreenfield"><img src="https://img.shields.io/badge/LinkedIn-Parker%20Greenfield-0A66C2?style=for-the-badge&logo=linkedin"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:parker.greenfield99@gmail.com"><img src="https://img.shields.io/badge/Email-parker.greenfield99%40gmail.com-841617?style=for-the-badge&logo=gmail"></a>
 </p>
 
